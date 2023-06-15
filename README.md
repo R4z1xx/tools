@@ -37,6 +37,7 @@
 | IP / Domain Reputation | https://talosintelligence.com/reputation_center/ | Security |
 |  IP / Domain Reputation  | https://www.abuseipdb.com/ | Security |
 |  CTI, IP History  | https://threatbook.io/ | Security |
+| Phishing Catcher | https://github.com/x0rz/phishing_catcher | Security |
 
 ----------
 
