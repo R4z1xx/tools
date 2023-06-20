@@ -38,6 +38,7 @@
 |  IP / Domain Reputation  | https://www.abuseipdb.com/ | Security |
 |  CTI, IP History  | https://threatbook.io/ | Security |
 | Phishing Catcher | https://github.com/x0rz/phishing_catcher | Security |
+| Phishing Analyser | https://www.phishtool.com/ | Security |
 
 ----------
 
