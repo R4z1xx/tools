@@ -39,6 +39,7 @@
 |  CTI, IP History  | https://threatbook.io/ | Security |
 | Phishing Catcher | https://github.com/x0rz/phishing_catcher | Security |
 | Phishing Analyser | https://www.phishtool.com/ | Security |
+| Certificate Transparency | https://crt.sh/ | Security |
 
 ----------
 
