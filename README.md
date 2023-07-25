@@ -18,6 +18,8 @@
 | Censys (Shodan like) | https://search.censys.io/ | Hacking |
 | RDP MITM | https://github.com/GoSecure/pyrdp | Hacking |
 | Sub Domain Finder | https://github.com/projectdiscovery/subfinder | Hacking |
+| Advanced Dorks | https://github.com/m3n0sd0n4ld/GooFuzz | Hacking |
+| Toolbox | https://book.hacktricks.xyz/ | Hacking |
 
  
 ----------
@@ -53,3 +55,4 @@
 | Depix | https://github.com/beurtschipper/Depix | Pictures |
 | Soundcloud Downloader | https://github.com/AYehia0/soundcloud-dl | Music |
 | Ransomware Simulation | https://github.com/JoelGMSec/PSRansom | Learning |
+| Improve Shell Script | https://github.com/charmbracelet/gum | Scripting |
