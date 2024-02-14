@@ -50,7 +50,7 @@
 | Name | Link | Category
 | -------- | -------- | -------- |
 | JS Obfuscator | https://obfuscator.io/ | Development |
-| JS DeObfuscator | https://jsnice.org/ (DOWN) | Reverse Engineering |
+| JS DeObfuscator | http://jsnice.org/ | Reverse Engineering |
 | Processus Tutos | https://peertube.lestutosdeprocessus.fr/index.html | Learning |
 | Depix | https://github.com/beurtschipper/Depix | Pictures |
 | Soundcloud Downloader | https://github.com/AYehia0/soundcloud-dl | Music |
