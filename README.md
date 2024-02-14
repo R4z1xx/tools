@@ -51,7 +51,7 @@
 | -------- | -------- | -------- |
 | JS Obfuscator | https://obfuscator.io/ | Development |
 | JS DeObfuscator | http://jsnice.org/ | Reverse Engineering |
-| Processus Tutos | https://peertube.lestutosdeprocessus.fr/index.html | Learning |
+| Processus Tutos (French) | https://peertube.lestutosdeprocessus.fr/index.html | Learning |
 | Depix | https://github.com/beurtschipper/Depix | Pictures |
 | Soundcloud Downloader | https://github.com/AYehia0/soundcloud-dl | Music |
 | Ransomware Simulation | https://github.com/JoelGMSec/PSRansom | Learning |
